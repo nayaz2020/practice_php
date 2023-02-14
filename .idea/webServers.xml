@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="de4c7f93-6896-46e9-bb11-a4f3d51d3ff5" name="nayaz.net">
+        <fileTransfer rootFolder="/home/nayaznet/public_html/practice_php" accessType="SFTP" host="nayaz.net" port="18765" sshConfigId="e275738c-5979-4aeb-856f-bcb4fc0ae4d9" sshConfig="nayaz">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
